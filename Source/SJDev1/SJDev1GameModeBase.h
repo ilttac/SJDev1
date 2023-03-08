@@ -13,5 +13,7 @@ UCLASS()
 class SJDEV1_API ASJDev1GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+public:
+	ASJDev1GameModeBase();
 	
 };
