@@ -51,6 +51,30 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+# TempContent
+Content/AdvancedMagicFX12/*
+Content/AnimStarterPack/*
+Content/CraftResourcesIcons/*
+Content/DesertDragon/*
+Content/Downtown_West/*
+Content/DreamscapeSeries/*
+Content/DynamicGrassLite/*
+Content/Fantastic_Village_Pack/*
+Content/FXVarietyPack/*
+Content/InfinityBladeWarriors/*
+Content/InfinityBladeWeapons/*
+Content/Magic_Circle_Creator/*
+Content/ParagonCountess/*
+Content/ProceduralBuildingGenerator/*
+Content/Realistic_Starter_VFX_Pack_Vol2/*
+Content/MCO_Mocap_Basics/*
+Content/Geometry/*
+
+
+
+
+
+
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
