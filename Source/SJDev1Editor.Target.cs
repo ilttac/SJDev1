@@ -9,6 +9,6 @@ public class SJDev1EditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "SJDev1" } );
+		ExtraModuleNames.AddRange( new string[] { "SJDev1", "CustomEditor" } );
 	}
 }
